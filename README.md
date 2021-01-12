@@ -1,3 +1,6 @@
+NAMA: ARDHIKA YUDHA PRASETYO
+NIM: 19.11.2751
+
 # StudiCase
 
 Program Aplikasi Promos ini adalah pengembangan dari aplikasi sebelumnya dengan menambahkan fitur baru
